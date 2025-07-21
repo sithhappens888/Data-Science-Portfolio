@@ -9,6 +9,12 @@ Welcome to my Data Science portfolio! Below I will detail my progress from my Co
 **Description** - This project uses machine learning and data analysis to predict the top genres from the 2024 Top Songs Data Set for 2025. 
 **Key Technologies** - Google CoLab, Jupyter Notebook, Python, Kaggle
 
+
+## Technologies
+This portfolio incldes work with various data science tools and libraries, which are listed below:
+
+
+
 ## Data Sets 
 Below are the data sets used for this project
 
