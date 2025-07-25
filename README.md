@@ -12,6 +12,8 @@ Welcome to my Data Science portfolio! Below I will detail my progress from my Co
 
 ## Technologies
 This portfolio incldes work with various data science tools and libraries, which are listed below:
+**Libraries** - NumPy, Pandas, MatPlotLib
+**Platforms Used** - Kaggle for Dataset, Google Docs for planning, Google Slides for presentation work, Google Colabs for Code/Graphs/ML models
 
 
 
